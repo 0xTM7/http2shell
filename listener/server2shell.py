@@ -39,7 +39,7 @@ banner = f"""
 {reset}
 """
 
-prompt = f"\n{red}┌──({white}http2shell@c2{red})\n{red}└─{white}≫ {reset}"
+prompt = f"\n{red}┌──({white}server2pwn{red})\n{red}└─{white}≫ {reset}"
 
 
 def termwidth():
@@ -374,7 +374,7 @@ def main():
 
     srv.listen(20)
     loginfo(f"listening on 0.0.0.0:{args.port}")
-    loginfo("waiting for http2shell agent...")
+    loginfo("waiting for shell agent connected...")
     print()
 
     threading.Thread(target=acceptloop, args=(srv,), daemon=True).start()
