@@ -28,8 +28,8 @@ banner = f"""
 {orange}/_/ /_/\\__/\\__/ .___/{red}/____/{orange}____/_/ /_/\\___/_/_/
 {orange}             /_/
 {bold}{red}  + {dim}{white}{italic}http2shell{reset}
-{bold}{red}  + {dim}{white}{italic}author: tom7{reset}
-{bold}{red}  + {dim}{white}{italic}github: https://github.com/tom7voldemort{reset}
+{bold}{red}  + {dim}{white}{italic}author: 0xTM7{reset}
+{bold}{red}  + {dim}{white}{italic}github: https://github.com/0xTM7{reset}
 {bold}{red}  + {dim}{white}{italic}version: 1.2{reset}
 {reset}
 """

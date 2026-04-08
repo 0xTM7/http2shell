@@ -18,4 +18,4 @@
 
 
 > # http2shell & server2pwn
-* collection of experimental shell & shell listener by 0xtom7
+* collection of experimental shell & shell listener by 0xTM7

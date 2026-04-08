@@ -33,8 +33,8 @@ banner = f"""
 {orange}/____/\\___/_/    |___/\\___/_/  {red}/____/{orange} .___/|__/|__/_/ /_/
 {orange}                                   /_/
 {bold}{red}  + {dim}{white}{italic}server2pwn{reset}
-{bold}{red}  + {dim}{white}{italic}author: tom7{reset}
-{bold}{red}  + {dim}{white}{italic}github: https://github.com/tom7voldemort{reset}
+{bold}{red}  + {dim}{white}{italic}author: 0xTM7{reset}
+{bold}{red}  + {dim}{white}{italic}github: https://github.com/0xTM7{reset}
 {bold}{red}  + {dim}{white}{italic}version: 1{reset}
 {reset}
 """

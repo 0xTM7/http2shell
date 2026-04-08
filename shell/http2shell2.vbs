@@ -26,8 +26,8 @@ banner = _
 "/_/ /_/\__/\__/\___/ /____/____/_/ /_/\___/_/_/" & vbCrLf & _
 "             /_" & vbCrLf & _
 "  + http2shell" & vbCrLf & _
-"  + author: tom7" & vbCrLf & _
-"  + github: https://github.com/tom7voldemort" & vbCrLf & _
+"  + author: 0xTM7" & vbCrLf & _
+"  + github: https://github.com/0xTM7" & vbCrLf & _
 "  + version: 1.2" & vbCrLf
 
 ' Class strobj equivalent

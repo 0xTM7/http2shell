@@ -24,8 +24,8 @@ $Bold
 {$Orange}/_/ /_/\\__/\\__/ .___/{$Red}/____/{$Orange}____/_/ /_/\\___/_/_/
 {$Orange}             /_/
 {$Bold}{$Red}  + {$Dim}{$White}{$Italic}http2shell{$Reset}
-{$Bold}{$Red}  + {$Dim}{$White}{$Italic}author: tom7{$Reset}
-{$Bold}{$Red}  + {$Dim}{$White}{$Italic}github: https://github.com/tom7voldemort{$Reset}
+{$Bold}{$Red}  + {$Dim}{$White}{$Italic}author: 0xTM7{$Reset}
+{$Bold}{$Red}  + {$Dim}{$White}{$Italic}github: https://github.com/0xTM7{$Reset}
 {$Bold}{$Red}  + {$Dim}{$White}{$Italic}version: 1.2{$Reset}
 $Reset
 ";
