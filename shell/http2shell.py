@@ -4,8 +4,8 @@ import socket
 from sys import stdout, exit
 from time import sleep
 
-c2httpsdomain   = "yourc2httpsdomain.com"
-c2httpdomain    = "yourc2httpdomain.com"
+c2httpsdomain = "yourc2httpsdomain.com"
+c2httpdomain = "yourc2httpdomain.com"
 c2defaultdomain = "127.0.0.1"
 port = 4444
 
@@ -28,11 +28,12 @@ banner = f"""
 {orange}/_/ /_/\\__/\\__/ .___/{red}/____/{orange}____/_/ /_/\\___/_/_/
 {orange}             /_/
 {bold}{red}  + {dim}{white}{italic}http2shell{reset}
-{bold}{red}  + {dim}{white}{italic}author: 0xTM7{reset}
-{bold}{red}  + {dim}{white}{italic}github: https://github.com/0xTM7{reset}
+{bold}{red}  + {dim}{white}{italic}author: XTM26{reset}
+{bold}{red}  + {dim}{white}{italic}github: https://github.com/XTM26{reset}
 {bold}{red}  + {dim}{white}{italic}version: 1.2{reset}
 {reset}
 """
+
 
 class strobj:
     def clear():
